@@ -16,3 +16,4 @@ C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\Ro
 C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.XML
 C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.dll
 C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.dll
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache

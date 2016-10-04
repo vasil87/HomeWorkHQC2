@@ -1,8 +1,10 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-namespace RotatingWalkInMatrix.Tests
+﻿namespace RotatingWalkInMatrix.Tests
 {
+    using System;
+    using Microsoft.VisualStudio.TestTools.UnitTesting;
+    using Models;
+    using Contracts;
+
     [TestClass]
     public class CellTests
     {
@@ -19,24 +21,24 @@ namespace RotatingWalkInMatrix.Tests
             var testCell = new Cell(x,y);
 
             Assert.IsInstanceOfType(testCell, typeof(Cell));
-            Assert.AreEqual(x, testCell.X);
-            Assert.AreEqual(y, testCell.Y);
+            Assert.AreEqual(x, testCell.CoordinateX);
+            Assert.AreEqual(y, testCell.CoordinateY);
         }
 
         [TestMethod]
         public void AddingTwoCellsShouldReturnANewCellWithProperValuesForXAndY()
         {
-            Cell resultingCell = firstCell + secondCell;
+            ICell resultingCell = firstCell.SumOfCells(secondCell);
 
-            Assert.AreEqual(3, resultingCell.X, "resultingCell.X should be equal to firstCell.X + secondCell.X");
-            Assert.AreEqual(3, resultingCell.Y, "resultingCell.Y should be equal to firstCell.Y + secondCell.Y");
+            Assert.AreEqual(3, resultingCell.CoordinateX, "resultingCell.X should be equal to firstCell.X + secondCell.X");
+            Assert.AreEqual(3, resultingCell.CoordinateY, "resultingCell.Y should be equal to firstCell.Y + secondCell.Y");
         }
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentNullException))]
         public void AddingTwoCellsShouldThrowAnArgumentNullExceptionWhenEitherOfTheOperandsIsNull()
         {
-            Cell test = this.firstCell + null;
+            ICell test = this.firstCell.SumOfCells(null);
         }
     }
 }

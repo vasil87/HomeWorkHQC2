@@ -3,6 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace RotatingWalkInMatrix.Tests
 {
+    using Models;
     using System.IO;
     using System.Text;
 
@@ -17,10 +18,10 @@ namespace RotatingWalkInMatrix.Tests
         }
 
         [TestMethod]
-        public void MatrixShouldConsistOfOneCellWithValueOf1WhenSizeIs1()
+        public void MatrixShouldConsistOfOneCellWithValueOf0WhenSizeIs1()
         {
             Matrix testMatrix = new Matrix(1);
-            Assert.AreEqual(1, testMatrix.Field[testMatrix.Field.GetLength(0) - 1, testMatrix.Field.GetLength(1) - 1]);
+            Assert.AreEqual(0, testMatrix.Field[testMatrix.Field.GetLength(0) - 1, testMatrix.Field.GetLength(1) - 1]);
         }
 
         [TestMethod]
@@ -38,7 +39,7 @@ namespace RotatingWalkInMatrix.Tests
                 expected.Append(Environment.NewLine);
             }
 
-            Assert.AreEqual(testMatrix.ToString(), expected.ToString());
+            Assert.AreEqual(testMatrix.MatrixToString(), expected.ToString());
         }
     }
 }

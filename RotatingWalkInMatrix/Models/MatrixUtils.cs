@@ -4,6 +4,9 @@
     using Contracts;
     using Helpers;
 
+    /// <summary>
+    /// Utils for work with Matrix.
+    /// </summary>
     public class MatrixUtils : IMatrixUtils
     {
         private readonly IMatrix matrix;
@@ -11,6 +14,13 @@
         private int currentDirection;
         private ICell startCell;
 
+        /// <summary>
+        /// Utils Constructor.
+        /// </summary>
+        /// <param name="matrixToUse"></param>
+        /// <param name="possibleDirections"></param>
+        /// <param name="startCell"></param>
+        /// <exception cref="ArgumentOutOfRangeException"/>
         public MatrixUtils(IMatrix matrixToUse, ICell[] possibleDirections, ICell startCell)
         {
             if (matrixToUse == null)
@@ -50,6 +60,9 @@
             this.currentDirection = 0;
         }
 
+        /// <summary>
+        /// Fills the matrix with numbers form 1 to the Size^2 in a scpecific order.
+        /// </summary>
         public void FillMatrix()
         {
             ICell currentCell = this.startCell;

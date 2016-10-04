@@ -3,21 +3,21 @@
     using System;
     using Common;
     using Contracts;
-    using Models;
     using log4net;
     using log4net.Config;
+    using Models;
 
     public class RotatingWalkInMatrix
     {
-        private static readonly ILog Logger = LogManager.GetLogger(typeof(RotatingWalkInMatrix));
         private const int NumberOfMatrixRowsAndCows = 6;
         private const int StartingPositionOnRowsAndCows = 0;
+        private static readonly ILog Logger = LogManager.GetLogger(typeof(RotatingWalkInMatrix));
 
         public static void Main()
         {
             XmlConfigurator.Configure();
-            IMatrix matrix=default(IMatrix);
-            IMatrixUtils matrixUtils=default(IMatrixUtils);
+            IMatrix matrix = default(IMatrix);
+            IMatrixUtils matrixUtils = default(IMatrixUtils);
 
             try
             {
@@ -31,7 +31,7 @@
             {
                 Logger.Error("Initializing of Matrix failed", ex);
             }
-
+         
             matrixUtils.FillMatrix();
 
             Console.WriteLine(matrix.MatrixToString());

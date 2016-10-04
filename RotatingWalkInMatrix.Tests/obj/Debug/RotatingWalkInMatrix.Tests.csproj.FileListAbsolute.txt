@@ -11,3 +11,17 @@ C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix.Tes
 C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.pdb
 C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.dll.CodeAnalysisLog.xml
 C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.dll.lastcodeanalysissucceeded
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.dll
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.pdb
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.dll
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\log4net.dll
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\Moq.dll
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.dll
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.xml
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\log4net.xml
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\Moq.xml
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.pdb
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.pdb

@@ -8,11 +8,11 @@ C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix\bin
 C:\Users\Vasil\Desktop\hq code homework\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.config
 C:\Users\Vasil\Desktop\hq code homework\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.exe
 C:\Users\Vasil\Desktop\hq code homework\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.pdb
-C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.config
-C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.exe
 C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.pdb
-C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe
 C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.pdb
-C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache
 C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\log4net.dll
 C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\log4net.xml
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.dll.config
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.XML
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.dll
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.dll

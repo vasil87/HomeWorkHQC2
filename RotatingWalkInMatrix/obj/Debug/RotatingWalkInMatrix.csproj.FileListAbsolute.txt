@@ -1,0 +1,16 @@
+C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.config
+C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe
+C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.exe
+C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.CodeAnalysisLog.xml
+C:\Users\Vasil\Desktop\hq code homework\3 refactoring\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.lastcodeanalysissucceeded
+C:\Users\Vasil\Desktop\hq code homework\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.config
+C:\Users\Vasil\Desktop\hq code homework\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.exe
+C:\Users\Vasil\Desktop\hq code homework\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.config
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.exe
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache

@@ -1,14 +1,12 @@
-# Refactoring Homework
+# Development Tools Homework
 
-### Refactor the C# code from the Visual Studio solution `Matrica.sln` to improve its internal quality.
-### You might follow the following steps:
-
-1.	Make some initial refactorings like:
-	*	Reformat the code.
-	*	Rename the ugly named variables.
-1.	Make the code testable.
-	*	Think how to test console-based input / output.
-1.	Write unit tests. Fix any bugs found in the mean time.
-1.	Refactor the code following the guidelines from this chapter.
-	*	Do it step by step.
-	*	Run the unit tests after each major change.
+1.  Research and use the following tools in one of your projects and provide some output or screenshots for each tool to prove that you actually used the tools
+    *   One source control system (TFS, SVN or Git)
+    *   log4net
+    *   StyleCop or JustCode
+    *   JustDecompile or ILSpy
+    *   Sandcastle or Doxygen
+    *   Some obfuscation tool of your choice
+1.  Write a simple T4 template of your choice
+1.  If you haven't yet, upload all your Telerik Academy homework projects in GitHub and provide a public link to the repository.
+    *   This homework is not expected to be anonymous

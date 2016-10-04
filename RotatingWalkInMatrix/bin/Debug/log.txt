@@ -1,0 +1,6 @@
+2016-10-04 17:58:30,895 [1] ERROR RotatingWalkInMatrix.RotatingWalkInMatrix [(null)] - Initializing of Matrix failed
+System.ArgumentException: bla
+   at RotatingWalkInMatrix.RotatingWalkInMatrix.Main() in C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\StartUp.cs:line 28
+2016-10-04 18:02:12,258 [9] ERROR RotatingWalkInMatrix.RotatingWalkInMatrix [(null)] - Initializing of Matrix failed
+System.ArgumentException: I Have Error Loging
+   at RotatingWalkInMatrix.RotatingWalkInMatrix.Main() in C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\StartUp.cs:line 28

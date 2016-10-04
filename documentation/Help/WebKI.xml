@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AllDirections field" Url="html/1655433f-76ec-84e2-7fc3-4882b12e134d.htm" />
+  <HelpKINode Title="Cell class">
+    <HelpKINode Title="Cell Class" Url="html/51fe4ec2-e611-8790-e5a8-aa8d93979649.htm" />
+    <HelpKINode Title="about Cell class" Url="html/51fe4ec2-e611-8790-e5a8-aa8d93979649.htm" />
+    <HelpKINode Title="constructor" Url="html/fde8968c-21f3-b58f-d9f0-e00cbfde8508.htm" />
+    <HelpKINode Title="methods" Url="html/64d51568-85e2-3567-71fa-080c9083a36e.htm" />
+    <HelpKINode Title="properties" Url="html/914fde2c-123a-a8b3-7fcd-6d57ead45664.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Cell.Cell constructor" Url="html/fde8968c-21f3-b58f-d9f0-e00cbfde8508.htm" />
+  <HelpKINode Title="Cell.CoordinateX property" Url="html/d06a0abb-792e-a9e7-44c7-80e196741511.htm" />
+  <HelpKINode Title="Cell.CoordinateY property" Url="html/fb55e344-48be-9ba2-2988-4274fe42d79a.htm" />
+  <HelpKINode Title="Cell.SumOfCells method" Url="html/08800f0c-8af8-41b6-aca1-5a1ee6814e62.htm" />
+  <HelpKINode Title="CoordinateX property">
+    <HelpKINode Title="Cell.CoordinateX Property " Url="html/d06a0abb-792e-a9e7-44c7-80e196741511.htm" />
+    <HelpKINode Title="ICell.CoordinateX Property " Url="html/10855205-f1d8-b587-7500-ffeb41e3ae2e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoordinateY property">
+    <HelpKINode Title="Cell.CoordinateY Property " Url="html/fb55e344-48be-9ba2-2988-4274fe42d79a.htm" />
+    <HelpKINode Title="ICell.CoordinateY Property " Url="html/5a5be01d-1aa0-f593-b8f4-22b80b08e74f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Field property">
+    <HelpKINode Title="IMatrix.Field Property " Url="html/1ab10ca8-acb8-e9d9-c9f0-58907e9cfcd0.htm" />
+    <HelpKINode Title="Matrix.Field Property " Url="html/ddbad99c-0851-d8e0-e5e4-af487f307ad1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FillMatrix method">
+    <HelpKINode Title="IMatrixUtils.FillMatrix Method " Url="html/c31aa25a-82e0-725e-67dd-2761078d007e.htm" />
+    <HelpKINode Title="MatrixUtils.FillMatrix Method " Url="html/a61cb1f9-f13e-7fa4-084c-11a8d83b968a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICell interface">
+    <HelpKINode Title="ICell Interface" Url="html/78db89dc-c3df-30a0-1ff4-10fa174b9fe4.htm" />
+    <HelpKINode Title="about ICell interface" Url="html/78db89dc-c3df-30a0-1ff4-10fa174b9fe4.htm" />
+    <HelpKINode Title="methods" Url="html/afcf3ad8-d7c6-c784-5e8a-4be1533ee101.htm" />
+    <HelpKINode Title="properties" Url="html/c7e184e3-8186-3630-6ea5-e9cb9f55f99f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICell.CoordinateX property" Url="html/10855205-f1d8-b587-7500-ffeb41e3ae2e.htm" />
+  <HelpKINode Title="ICell.CoordinateY property" Url="html/5a5be01d-1aa0-f593-b8f4-22b80b08e74f.htm" />
+  <HelpKINode Title="ICell.SumOfCells method" Url="html/215b5359-9d1a-449b-7f9b-4921a53946f8.htm" />
+  <HelpKINode Title="IMatrix interface">
+    <HelpKINode Title="IMatrix Interface" Url="html/c2b8c7d7-f9ff-55a0-520d-6ddce4542847.htm" />
+    <HelpKINode Title="about IMatrix interface" Url="html/c2b8c7d7-f9ff-55a0-520d-6ddce4542847.htm" />
+    <HelpKINode Title="methods" Url="html/567aabd4-1f68-0f47-af3d-c76345431448.htm" />
+    <HelpKINode Title="properties" Url="html/f72a6853-fd1a-9d6c-981a-5073e0492e9e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMatrix.Field property" Url="html/1ab10ca8-acb8-e9d9-c9f0-58907e9cfcd0.htm" />
+  <HelpKINode Title="IMatrix.MatrixToString method" Url="html/68a39b9c-62c9-05a2-26e6-d2cec5c3fe98.htm" />
+  <HelpKINode Title="IMatrixExtensions class">
+    <HelpKINode Title="IMatrixExtensions Class" Url="html/8fd8540b-c577-e277-48ea-6c9263459edb.htm" />
+    <HelpKINode Title="about IMatrixExtensions class" Url="html/8fd8540b-c577-e277-48ea-6c9263459edb.htm" />
+    <HelpKINode Title="methods" Url="html/9da821c1-4349-4c93-5461-2781b4c94552.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMatrixExtensions.IsValidDestination method" Url="html/c1ba8607-e659-7edb-efa2-76a654469eb0.htm" />
+  <HelpKINode Title="IMatrixUtils interface">
+    <HelpKINode Title="IMatrixUtils Interface" Url="html/502acd8c-c572-6d49-335b-e98fc68352b3.htm" />
+    <HelpKINode Title="about IMatrixUtils interface" Url="html/502acd8c-c572-6d49-335b-e98fc68352b3.htm" />
+    <HelpKINode Title="methods" Url="html/b872a26d-6c9c-dd22-30a9-5852dda0bb3d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMatrixUtils.FillMatrix method" Url="html/c31aa25a-82e0-725e-67dd-2761078d007e.htm" />
+  <HelpKINode Title="IsValidDestination method" Url="html/c1ba8607-e659-7edb-efa2-76a654469eb0.htm" />
+  <HelpKINode Title="Main method" Url="html/9f801eb0-81e2-535d-d755-f58aa69fae97.htm" />
+  <HelpKINode Title="Matrix class">
+    <HelpKINode Title="Matrix Class" Url="html/6a6775e0-e51a-f1e2-55dc-f874912a01be.htm" />
+    <HelpKINode Title="about Matrix class" Url="html/6a6775e0-e51a-f1e2-55dc-f874912a01be.htm" />
+    <HelpKINode Title="constructor" Url="html/5a90768c-ad8d-cbe4-159d-af03232dc8e7.htm" />
+    <HelpKINode Title="methods" Url="html/fb673fc1-0fee-f518-12df-c9a35d4cb0e4.htm" />
+    <HelpKINode Title="properties" Url="html/8e007f4c-1348-a937-a67c-1a16f89b39b6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Matrix.Field property" Url="html/ddbad99c-0851-d8e0-e5e4-af487f307ad1.htm" />
+  <HelpKINode Title="Matrix.Matrix constructor" Url="html/5a90768c-ad8d-cbe4-159d-af03232dc8e7.htm" />
+  <HelpKINode Title="Matrix.MatrixToString method" Url="html/0cde6f8f-3642-e5e2-1255-6435d8eb5b97.htm" />
+  <HelpKINode Title="MatrixToString method">
+    <HelpKINode Title="IMatrix.MatrixToString Method " Url="html/68a39b9c-62c9-05a2-26e6-d2cec5c3fe98.htm" />
+    <HelpKINode Title="Matrix.MatrixToString Method " Url="html/0cde6f8f-3642-e5e2-1255-6435d8eb5b97.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixUtils class">
+    <HelpKINode Title="MatrixUtils Class" Url="html/ab6bac07-0300-c935-bdb8-67579cf36703.htm" />
+    <HelpKINode Title="about MatrixUtils class" Url="html/ab6bac07-0300-c935-bdb8-67579cf36703.htm" />
+    <HelpKINode Title="constructor" Url="html/95f3c443-ad0a-b0a1-65cc-3c38e9b2381a.htm" />
+    <HelpKINode Title="methods" Url="html/e733486c-9427-3318-efbc-5a43ed95f739.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixUtils.FillMatrix method" Url="html/a61cb1f9-f13e-7fa4-084c-11a8d83b968a.htm" />
+  <HelpKINode Title="MatrixUtils.MatrixUtils constructor" Url="html/95f3c443-ad0a-b0a1-65cc-3c38e9b2381a.htm" />
+  <HelpKINode Title="PossibleDirections class">
+    <HelpKINode Title="PossibleDirections Class" Url="html/ccccc358-8a3e-47a1-6c21-f06a4d98332e.htm" />
+    <HelpKINode Title="about PossibleDirections class" Url="html/ccccc358-8a3e-47a1-6c21-f06a4d98332e.htm" />
+    <HelpKINode Title="fields" Url="html/e0dd3ffd-2e3a-f4df-f9bf-26d78382569f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PossibleDirections.AllDirections field" Url="html/1655433f-76ec-84e2-7fc3-4882b12e134d.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix class">
+    <HelpKINode Title="RotatingWalkInMatrix Class" Url="html/15ed9faa-45f4-8c40-5a62-39a03557f3a2.htm" />
+    <HelpKINode Title="about RotatingWalkInMatrix class" Url="html/15ed9faa-45f4-8c40-5a62-39a03557f3a2.htm" />
+    <HelpKINode Title="constructor" Url="html/9ea3ddb8-2e10-2815-2b16-7f6a718ee1a4.htm" />
+    <HelpKINode Title="methods" Url="html/4adaa5f7-103a-3183-b045-b2e63d760061.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RotatingWalkInMatrix namespace" Url="html/61cb6b2b-38a2-e67e-9957-1eb600053786.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Common namespace" Url="html/3529f8ce-c5ff-a992-b8b1-395a2b762c23.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Common.PossibleDirections class" Url="html/ccccc358-8a3e-47a1-6c21-f06a4d98332e.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Contracts namespace" Url="html/32dfc930-8a94-1730-5356-08adf1ddc39c.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Contracts.ICell interface" Url="html/78db89dc-c3df-30a0-1ff4-10fa174b9fe4.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Contracts.IMatrix interface" Url="html/c2b8c7d7-f9ff-55a0-520d-6ddce4542847.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Contracts.IMatrixUtils interface" Url="html/502acd8c-c572-6d49-335b-e98fc68352b3.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Helpers namespace" Url="html/be6380e3-e45f-3699-2c1c-2c67f2de6ae1.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Helpers.IMatrixExtensions class" Url="html/8fd8540b-c577-e277-48ea-6c9263459edb.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Main method" Url="html/9f801eb0-81e2-535d-d755-f58aa69fae97.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Models namespace" Url="html/c7915f45-c3a2-426e-ab27-61df842320b9.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Models.Cell class" Url="html/51fe4ec2-e611-8790-e5a8-aa8d93979649.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Models.Matrix class" Url="html/6a6775e0-e51a-f1e2-55dc-f874912a01be.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.Models.MatrixUtils class" Url="html/ab6bac07-0300-c935-bdb8-67579cf36703.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.RotatingWalkInMatrix class" Url="html/15ed9faa-45f4-8c40-5a62-39a03557f3a2.htm" />
+  <HelpKINode Title="RotatingWalkInMatrix.RotatingWalkInMatrix constructor" Url="html/9ea3ddb8-2e10-2815-2b16-7f6a718ee1a4.htm" />
+  <HelpKINode Title="SumOfCells method">
+    <HelpKINode Title="Cell.SumOfCells Method " Url="html/08800f0c-8af8-41b6-aca1-5a1ee6814e62.htm" />
+    <HelpKINode Title="ICell.SumOfCells Method " Url="html/215b5359-9d1a-449b-7f9b-4921a53946f8.htm" />
+  </HelpKINode>
+</HelpKI>

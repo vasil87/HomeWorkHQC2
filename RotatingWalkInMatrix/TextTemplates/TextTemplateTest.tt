@@ -1,0 +1,19 @@
+﻿﻿<#@ template language="C#" hostspecific="true" #>
+<#@ output extension=".cs" #>
+<#@ import namespace="System.IO" #>
+<#@ import namespace="System"#>
+<#@ import namespace="Microsoft.VisualStudio.TextTemplating" #>
+
+namespace Test
+{
+   enum Month
+   {
+     <#
+		for (int i = 1; i < 13; i++)
+		 {
+			var month=DateTime.Now.AddMonths(i).ToString("MMMM");#>
+             <#=month#>,
+		<# }
+	 #>
+   }
+}

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RotatingWalkInMatrix</name>
+    </assembly>
+    <members>
+        <member name="T:RotatingWalkInMatrix.Helpers.IMatrixExtensions">
+            <summary>
+            Extension Methods for work with Square Matrix.
+            </summary>
+        </member>
+        <member name="M:RotatingWalkInMatrix.Helpers.IMatrixExtensions.IsValidDestination(RotatingWalkInMatrix.Contracts.IMatrix,RotatingWalkInMatrix.Contracts.ICell)">
+            <summary>
+            Checks if a destination is in the matrix boundaries and if it is with default value.
+            </summary>
+            <param name="matrix">Current Matrix</param>
+            <param name="cellToCheck">Cell with given cordinates to be checked</param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentNullException"/>
+        </member>
+        <member name="T:RotatingWalkInMatrix.Models.Matrix">
+            <summary>
+            Class matrix holds instance of a square matrix and a method to return it as a string.
+            </summary>
+        </member>
+        <member name="M:RotatingWalkInMatrix.Models.Matrix.#ctor(System.Int32)">
+            <summary>
+            Matrix Constructor.
+            </summary>
+            <param name="size">
+            The matrix dimensions as rows and cols.
+            In <seealso cref="T:System.Int32"/>.
+            Can`t be less than zero.
+            </param>
+            <exception cref="T:System.ArgumentOutOfRangeException">Size cannot be less than or equal to zero</exception>
+        </member>
+        <member name="P:RotatingWalkInMatrix.Models.Matrix.Field">
+            <summary>
+            Fild is the instance of the square matrix.Can`t be set.
+            </summary>
+        </member>
+        <member name="M:RotatingWalkInMatrix.Models.Matrix.MatrixToString">
+            <summary>
+            Represent the matrix as a <seealso cref="T:System.String"/> in special format.
+            </summary>
+            <returns>Matrix as <seealso cref="T:System.String"/>.</returns>
+        </member>
+        <member name="T:RotatingWalkInMatrix.Models.Cell">
+            <summary>
+            Holds data for a point in the Decard System axis-X(abcis) and axis-Y(ordinate)
+            </summary>
+        </member>
+        <member name="M:RotatingWalkInMatrix.Models.Cell.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Initialize a cell in the Decard Space with x(abcis),y(ordinate)
+            </summary>
+            <param name="x">Abcis <seealso cref="T:System.Int32"/> value</param>
+            <param name="y">Ordinate <seealso cref="T:System.Int32"/> value</param>
+        </member>
+        <member name="P:RotatingWalkInMatrix.Models.Cell.CoordinateX">
+            <summary>
+            Abcis <seealso cref="T:System.Int32"/> value
+            </summary>
+        </member>
+        <member name="P:RotatingWalkInMatrix.Models.Cell.CoordinateY">
+            <summary>
+            Ordinate <seealso cref="T:System.Int32"/> value
+            </summary>
+        </member>
+        <member name="M:RotatingWalkInMatrix.Models.Cell.SumOfCells(RotatingWalkInMatrix.Contracts.ICell)">
+            <summary>
+            Returns sum of the cell coordinates with another cell coordinates as a new Cell.
+            </summary>
+            <param name="cellToSumWith">The cell to sum with. </param>
+            <returns>ICell</returns>
+            <exception cref="T:System.ArgumentNullException"/>
+        </member>
+        <member name="T:RotatingWalkInMatrix.Models.MatrixUtils">
+            <summary>
+            Utils for work with Matrix.
+            </summary>
+        </member>
+        <member name="M:RotatingWalkInMatrix.Models.MatrixUtils.#ctor(RotatingWalkInMatrix.Contracts.IMatrix,RotatingWalkInMatrix.Contracts.ICell[],RotatingWalkInMatrix.Contracts.ICell)">
+            <summary>
+            Utils Constructor.
+            </summary>
+            <param name="matrixToUse"></param>
+            <param name="possibleDirections"></param>
+            <param name="startCell"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException"/>
+        </member>
+        <member name="M:RotatingWalkInMatrix.Models.MatrixUtils.FillMatrix">
+            <summary>
+            Fills the matrix with numbers form 1 to the Size^2 in a scpecific order.
+            </summary>
+        </member>
+        <member name="T:RotatingWalkInMatrix.Common.PossibleDirections">
+            <summary>
+            Static Clas that holds all posible directions in a matrix acording to a specific rule.
+            </summary>
+        </member>
+        <member name="M:RotatingWalkInMatrix.Common.PossibleDirections.#cctor">
+            <summary>
+            All the directions as an Array of Cells.
+            </summary>
+        </member>
+    </members>
+</doc>

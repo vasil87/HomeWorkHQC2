@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="96720f7a-1172-4a53-921c-4e6f03593579" Title="RotatingWalkInMatrix" Url="html/61cb6b2b-38a2-e67e-9957-1eb600053786.htm">
+    <HelpTOCNode Id="73ff19ab-0cc7-470b-a846-b21e399142c6" Title="RotatingWalkInMatrix Class" Url="html/15ed9faa-45f4-8c40-5a62-39a03557f3a2.htm">
+      <HelpTOCNode Title="RotatingWalkInMatrix Constructor " Url="html/9ea3ddb8-2e10-2815-2b16-7f6a718ee1a4.htm" />
+      <HelpTOCNode Id="86d61714-4a80-426a-8ff3-105ca5f6c6c1" Title="RotatingWalkInMatrix Methods" Url="html/4adaa5f7-103a-3183-b045-b2e63d760061.htm">
+        <HelpTOCNode Title="Main Method " Url="html/9f801eb0-81e2-535d-d755-f58aa69fae97.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="dd8b3dd8-bc50-4004-ba57-3742065082ae" Title="RotatingWalkInMatrix.Common" Url="html/3529f8ce-c5ff-a992-b8b1-395a2b762c23.htm">
+    <HelpTOCNode Id="78ef5407-e262-41fd-a7c8-0e99890b4a5d" Title="PossibleDirections Class" Url="html/ccccc358-8a3e-47a1-6c21-f06a4d98332e.htm">
+      <HelpTOCNode Id="f0f38bfb-946a-4bec-8648-966c9be979f3" Title="PossibleDirections Fields" Url="html/e0dd3ffd-2e3a-f4df-f9bf-26d78382569f.htm">
+        <HelpTOCNode Title="AllDirections Field" Url="html/1655433f-76ec-84e2-7fc3-4882b12e134d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="02d9f945-064f-4f14-b714-ee90e7645e34" Title="RotatingWalkInMatrix.Contracts" Url="html/32dfc930-8a94-1730-5356-08adf1ddc39c.htm">
+    <HelpTOCNode Id="1724e608-9c8e-40a0-8ef8-8cf42c5d6f5d" Title="ICell Interface" Url="html/78db89dc-c3df-30a0-1ff4-10fa174b9fe4.htm">
+      <HelpTOCNode Id="add72c43-c61d-4ba7-a64e-7c60a319cc82" Title="ICell Properties" Url="html/c7e184e3-8186-3630-6ea5-e9cb9f55f99f.htm">
+        <HelpTOCNode Title="CoordinateX Property " Url="html/10855205-f1d8-b587-7500-ffeb41e3ae2e.htm" />
+        <HelpTOCNode Title="CoordinateY Property " Url="html/5a5be01d-1aa0-f593-b8f4-22b80b08e74f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a312b035-3b00-4646-bab0-e3e0f3870cc9" Title="ICell Methods" Url="html/afcf3ad8-d7c6-c784-5e8a-4be1533ee101.htm">
+        <HelpTOCNode Title="SumOfCells Method " Url="html/215b5359-9d1a-449b-7f9b-4921a53946f8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4c531dcf-50c0-4af6-a1c9-95976f2c3399" Title="IMatrix Interface" Url="html/c2b8c7d7-f9ff-55a0-520d-6ddce4542847.htm">
+      <HelpTOCNode Id="d8d5301d-a985-4f35-a226-ef7e5d2919cd" Title="IMatrix Properties" Url="html/f72a6853-fd1a-9d6c-981a-5073e0492e9e.htm">
+        <HelpTOCNode Title="Field Property " Url="html/1ab10ca8-acb8-e9d9-c9f0-58907e9cfcd0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fe411a48-f653-4bb6-80cf-23583079920f" Title="IMatrix Methods" Url="html/567aabd4-1f68-0f47-af3d-c76345431448.htm">
+        <HelpTOCNode Title="MatrixToString Method " Url="html/68a39b9c-62c9-05a2-26e6-d2cec5c3fe98.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="36b6b5b6-5f90-468b-ba1a-b152f474e8a8" Title="IMatrixUtils Interface" Url="html/502acd8c-c572-6d49-335b-e98fc68352b3.htm">
+      <HelpTOCNode Id="a53dca28-9d2b-4a1f-b5ec-b03dd56a344b" Title="IMatrixUtils Methods" Url="html/b872a26d-6c9c-dd22-30a9-5852dda0bb3d.htm">
+        <HelpTOCNode Title="FillMatrix Method " Url="html/c31aa25a-82e0-725e-67dd-2761078d007e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="4036478e-dacc-4e72-b45d-b92d50782d1f" Title="RotatingWalkInMatrix.Helpers" Url="html/be6380e3-e45f-3699-2c1c-2c67f2de6ae1.htm">
+    <HelpTOCNode Id="03749a74-8d12-4bd2-b47e-8d3895c55039" Title="IMatrixExtensions Class" Url="html/8fd8540b-c577-e277-48ea-6c9263459edb.htm">
+      <HelpTOCNode Id="6f291947-bdfe-4f9d-9d02-3f4b83f3e606" Title="IMatrixExtensions Methods" Url="html/9da821c1-4349-4c93-5461-2781b4c94552.htm">
+        <HelpTOCNode Title="IsValidDestination Method " Url="html/c1ba8607-e659-7edb-efa2-76a654469eb0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="7b4bb0cd-6524-416a-869e-52c8bec57bc0" Title="RotatingWalkInMatrix.Models" Url="html/c7915f45-c3a2-426e-ab27-61df842320b9.htm">
+    <HelpTOCNode Id="863d0a96-ee60-4778-8000-a197d5a1c48d" Title="Cell Class" Url="html/51fe4ec2-e611-8790-e5a8-aa8d93979649.htm">
+      <HelpTOCNode Title="Cell Constructor " Url="html/fde8968c-21f3-b58f-d9f0-e00cbfde8508.htm" />
+      <HelpTOCNode Id="397d9194-bcd6-491d-af44-8f0d40c44698" Title="Cell Properties" Url="html/914fde2c-123a-a8b3-7fcd-6d57ead45664.htm">
+        <HelpTOCNode Title="CoordinateX Property " Url="html/d06a0abb-792e-a9e7-44c7-80e196741511.htm" />
+        <HelpTOCNode Title="CoordinateY Property " Url="html/fb55e344-48be-9ba2-2988-4274fe42d79a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="91268673-63d4-4e74-8475-9b2df95db9eb" Title="Cell Methods" Url="html/64d51568-85e2-3567-71fa-080c9083a36e.htm">
+        <HelpTOCNode Title="SumOfCells Method " Url="html/08800f0c-8af8-41b6-aca1-5a1ee6814e62.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f27bc59a-f525-4b19-8cf3-4703eaa0b53e" Title="Matrix Class" Url="html/6a6775e0-e51a-f1e2-55dc-f874912a01be.htm">
+      <HelpTOCNode Title="Matrix Constructor " Url="html/5a90768c-ad8d-cbe4-159d-af03232dc8e7.htm" />
+      <HelpTOCNode Id="fc20901b-9c7e-4e86-a074-c0e05727a704" Title="Matrix Properties" Url="html/8e007f4c-1348-a937-a67c-1a16f89b39b6.htm">
+        <HelpTOCNode Title="Field Property " Url="html/ddbad99c-0851-d8e0-e5e4-af487f307ad1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dfe71c2e-fab2-4543-9aab-74caabe425da" Title="Matrix Methods" Url="html/fb673fc1-0fee-f518-12df-c9a35d4cb0e4.htm">
+        <HelpTOCNode Title="MatrixToString Method " Url="html/0cde6f8f-3642-e5e2-1255-6435d8eb5b97.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6d58b67b-7a66-428b-bf27-b31382ea8c43" Title="MatrixUtils Class" Url="html/ab6bac07-0300-c935-bdb8-67579cf36703.htm">
+      <HelpTOCNode Title="MatrixUtils Constructor " Url="html/95f3c443-ad0a-b0a1-65cc-3c38e9b2381a.htm" />
+      <HelpTOCNode Id="52c1be28-fef7-45a9-86f2-770fb51c0564" Title="MatrixUtils Methods" Url="html/e733486c-9427-3318-efbc-5a43ed95f739.htm">
+        <HelpTOCNode Title="FillMatrix Method " Url="html/a61cb1f9-f13e-7fa4-084c-11a8d83b968a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

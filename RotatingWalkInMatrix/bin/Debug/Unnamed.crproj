@@ -1,0 +1,9 @@
+<project outputDir="C:\Users\Vasil\Desktop\New folder\afterconfuser" baseDir="C:\Users\Vasil\Desktop\New folder\3.Refactor\2\RotatingWalkInMatrix\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="maximum" inherit="false">
+    <protection id="anti ildasm" />
+  </rule>
+  <packer id="compressor" />
+  <module path="RotatingWalkInMatrix.exe">
+    <rule pattern="true" preset="maximum" inherit="false" />
+  </module>
+</project>
